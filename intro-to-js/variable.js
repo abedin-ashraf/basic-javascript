@@ -1,0 +1,14 @@
+var price = 21;
+console.log(price);
+var age = 22;
+console.log("My age is " + age);
+var temperature = 39.9;
+console.log("Today's temperatue is " + temperature);
+var name = "Ashraf";
+console.log("My name is " + name);
+var isCorrect = true;
+console.log(isCorrect);
+var address = "Booter goli kocur khet";
+console.log(address);
+var isInCorrect = false;
+console.log(isInCorrect);
